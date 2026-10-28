@@ -90,4 +90,8 @@ Planos de aula utilizados: **8, 9, 11 e 12**.
 
 ## Autor
 
-**Seu Nome** — Curso / Disciplina / Ano
+| Aluno | RGM | Curso |
+|---|---|---|
+| Guilherme Hiroshi dos Santos Okamoto | 47554703 | Engenharia de Software |
+| Gustavo Gomes Silva | 47436808 | Engenharia de Software |
+| Pedro Henrique Ruola Coiado | 47589124 | Ciência da Computação |
